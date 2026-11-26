@@ -3,12 +3,12 @@ entries:
   tmp-restart-dep-20261126165211:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-11-26T16:58:07.658328-05:00"
+    created: "2026-11-26T17:02:01.441448-05:00"
     description: Temporary dependency for Jenkins Restart from Stage verification
-    digest: 9348b1e3724aee4c2a23791fdf7376ca709e882597253fe6ec5b9cb44e49552d
+    digest: 9d1a28078331875620e529b306c4322eafec6c7b6d063689dce077e6eadfe4bb
     name: tmp-restart-dep-20261126165211
     type: application
     urls:
-    - https://raw.githubusercontent.com/jyeung-r7/tmp-helm-restart-test-20261126165211/main/repo/tmp-restart-dep-20261126165211-1.0.0.tgz
-    version: 1.0.0
-generated: "2026-11-26T16:58:07.6574-05:00"
+    - https://raw.githubusercontent.com/jyeung-r7/tmp-helm-restart-test-20261126165211/main/repo/tmp-restart-dep-20261126165211-1.0.1.tgz
+    version: 1.0.1
+generated: "2026-11-26T17:02:01.441225-05:00"
